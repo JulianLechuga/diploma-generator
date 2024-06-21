@@ -1,0 +1,25 @@
+### instrucciones.txt
+
+Instrucciones para el uso de la aplicación de Generador de Certificados
+
+1. Preparar el archivo de nombres:
+   - Crea un archivo de texto (por ejemplo, 'nombres.txt') donde cada línea contenga un nombre que desees usar para generar un certificado.
+   - Ejemplo:
+	Juan Perez
+	Alberto Rodriguez
+	Natalia Díaz
+	Alejandro Gomez
+   - El programa generará un archivo Docx (Word) por cada nombre en la lista.
+
+2. Asegúrate de tener la plantilla de certificado:
+   - La plantilla debe estar en la misma carpeta que el programa y debe llamarse 'Plantilla.docx'.
+   - Dentro de la plantila, debe indicar con [NOMBRE] en donde quiere que se reemplaze con los nombres de la lista.
+
+3. Ejecutar el programa:
+   - Deberá arrastrar el archivo con los nombres sobre el archivo "Generador.exe".
+   - Espere unos segundos hasta que el programa revise el listado completo, esto puede demorar más según la cantidad de nombres.
+   - En caso exitoso, se generarán los archivos en la misma carpeta que el programa "Generador.exe".
+
+Notas:
+- Los certificados generados se guardarán en la misma carpeta que la aplicación
+- Si ocurre algún error, se mostrará un mensaje en una ventana emergente indicando el problema.

@@ -1,0 +1,43 @@
+
+
+Version:	3.50
+CmdLine:	C:\Users\julia_9gqvigx\OneDrive\Escritorio\Generador Diplomas\v2\diploma-generator-v2.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\julia_9gqvigx\OneDrive\Escritorio\Generador Diplomas\v2\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.008.000
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\java8path;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\Users\julia_9gqvigx\AppData\Local\Programs\Python\Python312\Scripts;C:\Users\julia_9gqvigx\AppData\Local\Programs\Python\Launcher\;C:\Program Files\Apache\Maven\bin;C:\Users\julia_9gqvigx\.console-ninja\.bin;C:\Users\julia_9gqvigx\AppData\Local\Microsoft\WindowsApps;C:\Users\julia_9gqvigx\AppData\Local\Programs\Microsoft VS Code\bin;C:\PHP;C:\Users\julia_9gqvigx\AppData\Roaming\npm;C:\Users\julia_9gqvigx\AppData\Local\Programs\Python\Python312\Scripts;;C:\Program Files\Java\jre-1.8\bin
+JRE paths:	;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\java8path;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\dotnet\;C:\Program Files\nodejs\;C:\Users\julia_9gqvigx\AppData\Local\Programs\Python\Python312\Scripts;C:\Users\julia_9gqvigx\AppData\Local\Programs\Python\Launcher\;C:\Program Files\Apache\Maven\bin;C:\Users\julia_9gqvigx\.console-ninja\.bin;C:\Users\julia_9gqvigx\AppData\Local\Microsoft\WindowsApps;C:\Users\julia_9gqvigx\AppData\Local\Programs\Microsoft VS Code\bin;C:\PHP;C:\Users\julia_9gqvigx\AppData\Roaming\npm;C:\Users\julia_9gqvigx\AppData\Local\Programs\Python\Python312\Scripts;;C:\Program Files\Java\jre-1.8\bin
+Check launcher:	C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Common Files\Oracle\Java\java8path\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Git\cmd\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\dotnet\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\nodejs\bin\javaw.exe (not found)
+Check launcher:	C:\Users\julia_9gqvigx\AppData\Local\Programs\Python\Python312\Scripts\bin\javaw.exe (not found)
+Check launcher:	C:\Users\julia_9gqvigx\AppData\Local\Programs\Python\Launcher\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Apache\Maven\bin\javaw.exe (not found)
+Check launcher:	C:\Users\julia_9gqvigx\.console-ninja\.bin\bin\javaw.exe (not found)
+Check launcher:	C:\Users\julia_9gqvigx\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Users\julia_9gqvigx\AppData\Local\Programs\Microsoft VS Code\bin\javaw.exe (not found)
+Check launcher:	C:\PHP\bin\javaw.exe (not found)
+Check launcher:	C:\Users\julia_9gqvigx\AppData\Roaming\npm\bin\javaw.exe (not found)
+Check launcher:	C:\Users\julia_9gqvigx\AppData\Local\Programs\Python\Python312\Scripts\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jre-1.8\bin\javaw.exe (OK)
+Version string: 1.008.000_411 / 64-Bit (OK)
+Heap -Xms:	Requested 256 MB / 0%, Available: 5634 MB, Heap size: 256 MB
+Heap -Xmx:	Requested 1024 MB / 0%, Available: 5634 MB, Heap size: 1024 MB
+Launcher:	C:\Program Files\Java\jre-1.8\bin\javaw.exe
+Launcher args:	-Xms256m -Xmx1024m -jar "C:\Users\julia_9gqvigx\OneDrive\Escritorio\Generador Diplomas\v2\diploma-generator-v2.exe"
+Args length:	115/32768 chars
+Exit code:	0
